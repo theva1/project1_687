@@ -26,3 +26,5 @@ Maps showing the tracts based on owner-occupied to renter-occupied ratio, percen
 
 A table showing the analysis results from R. Quintiles of owner-occupied to renter-occupied households on the y axis and the relatve percentages regarding internet connectivity, device use , and type on the y axis. (e.g tracts less than 20% rent-occupied have x connectivity rate, list desktops y%, cellphones z%.. and so on) 
 
+Then a write up summarizing results. 
+
