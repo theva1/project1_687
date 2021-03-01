@@ -16,7 +16,7 @@ I will group tracts into quintiles based on the ratio of owner-occupied to rente
 
 How does the percentage of househoulds with no internet conenction change through the quintiles?
 
-What device is listed as used to access the interent? (Desktop/laptops, cell phones, tablets, other..) 
+What device is listed as used to access the interent? (Desktop/laptops, cell phones, tablets, other) 
 
 The same as above but for connectivity type (cellular, broadband, dial-up, satelite, and other). 
 
