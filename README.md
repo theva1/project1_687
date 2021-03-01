@@ -10,9 +10,10 @@ This project will use data from the Census ACS. More specifically, the "Computer
 None for collecting the ACS data. 
 
 ## Anaylsis
-What is the relationship between computer and internet use of owner-occupied vs rent-occupied housing in Maryland.
+What is the relationship between computer and internet use of owner-occupied and rent-occupied tracts in Maryland.
 
-What percentage of owner-occupied and renter-occupied households have no interent connection?
+How does the percentage of househoulds with no internet conenction change as the ratio between owner-occupied and renter-occupied households changes?
+
 
 Do renters and owners connect to the internet via the same modes (cellular, broadband, satelitte, dial-up, or other).
 
