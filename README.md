@@ -1,5 +1,5 @@
 # Project 1
-# Evan Thomas
+### Evan Thomas
 
 
 ## Topic
