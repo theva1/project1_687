@@ -1,4 +1,5 @@
-# project1_687
+# Project 1
+# Evan Thomas
 
 
 ## Topic
