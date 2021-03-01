@@ -22,3 +22,5 @@ What devices do owners and renters use to access the interent? (Desktop/laptops,
 ## Output
 Maps showing the percentage of internet connected households, primary method, and primary device, for owner-occupied and renter-occupied. 
 
+A table showing the analysis results from R. 
+
