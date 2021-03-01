@@ -14,9 +14,9 @@ What is the relationship between computer and internet use and the ratio between
 
 I will group tracts into quintiles based on the ratio of owner-occupied to renter-occupied households. Then I will attempt to answer the following questions:
 
-How does the percentage of househoulds with no internet conenction change through the quintiles?
+How does the percentage of househoulds with no internet connection change throughout the quintiles?
 
-What device is listed as used to access the interent? (Desktop/laptops, cell phones, tablets, other) 
+Relative percentage of devices listed to access the interent per quintile (Desktop/laptops, cell phones, tablets, other) 
 
 The same as above but for connectivity type (cellular, broadband, dial-up, satelite, and other). 
 
