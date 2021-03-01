@@ -10,18 +10,19 @@ This project will use data from the Census ACS. More specifically, the "Computer
 None for collecting the ACS data. 
 
 ## Anaylsis
-What is the relationship between computer and internet use of owner-occupied and rent-occupied tracts in Maryland.
+What is the relationship between computer and internet use and the ratio between owner-occupied and rent-occupied households in Maryland?
 
-How does the percentage of househoulds with no internet conenction change as the ratio between owner-occupied and renter-occupied households changes?
+I will group tracts into quintiles based on the ratio of owner-occupied to renter-occupied households. Then I will attempt to answer the following questions:
 
+How does the percentage of househoulds with no internet conenction change through the quintiles?
 
-Do renters and owners connect to the internet via the same modes (cellular, broadband, satelitte, dial-up, or other).
+What device is listed as used to access the interent? (Desktop/laptops, cell phones, tablets, other..) 
 
-What devices do owners and renters use to access the interent? (Desktop/laptops, cell phones, tablets, other..) Is it proportional? 
+The same as above but for connectivity type (cellular, broadband, dial-up, satelite, and other). 
 
 
 ## Output
-Maps showing the percentage of internet connected households, primary method, and primary device, for owner-occupied and renter-occupied. 
+Maps showing the tracts based on owner-occupied to renter-occupied ratio, percentage of internet connected households. (And others!)
 
-A table showing the analysis results from R. 
+A table showing the analysis results from R. Quintiles of owner-occupied to renter-occupied households on the y axis and the relatve percentages regarding internet connectivity, device use , and type on the y axis. (e.g tracts less than 20% rent-occupied have x connectivity rate, list desktops y%, cellphones z%.. and so on) 
 
