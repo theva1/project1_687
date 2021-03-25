@@ -7,7 +7,7 @@ The relationship between computer usage and housing tenure in Maryland.
 This project will use data from the Census ACS. More specifically, the "Computer and Internet Use", "Housing stock", and "Tenure" groups. 
 
 ## Transformations
-None for collecting the ACS data. 
+None for collecting the ACS data. I will transfer it into 3857 if creating maps in QGIS (not sure yet).  
 
 ## Anaylsis
 What is the relationship between computer and internet use and the ratio between owner-occupied and rent-occupied households in Maryland?
